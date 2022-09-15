@@ -83,8 +83,8 @@ const Home = () => {
   );
 };
 
-Home.propTypes = {
-  posts: PropTypes.array.isRequired,
-};
+// Home.propTypes = {
+//   posts: PropTypes.array.isRequired,
+// };
 
 export default Home;
